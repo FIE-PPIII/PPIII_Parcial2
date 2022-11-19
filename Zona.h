@@ -21,6 +21,10 @@ public:
     Zona(int, string);
     ~Zona();
 
+    void agregarVenta(int, double, Vendedor*);
+    double getRecaudacion();
+    double getRecaudacion(Vendedor*);
+
     int getId();
     string getNombre();
 };
