@@ -19,7 +19,7 @@ private:
 public:
     Zona() {}  // para map
     Zona(int, string);
-    ~Zona();
+    ~Zona() {};
 
     void agregarVenta(int, double, Vendedor*);
     double getRecaudacion();

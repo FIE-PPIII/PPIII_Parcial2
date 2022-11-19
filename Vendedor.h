@@ -19,7 +19,7 @@ public:
     Vendedor(int, string);
     Vendedor() {}  // Para usar operador [] en map
 
-    ~Vendedor();
+    ~Vendedor() {};
 
     int getId();
     string getNombre();

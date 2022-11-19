@@ -1,0 +1,15 @@
+# ninja log v5
+37	810	6905795372600463	CMakeFiles/base_cpp.dir/Venta.cpp.obj	3f32c6606feb4d93
+24	824	6905795372802110	CMakeFiles/base_cpp.dir/Vendedor.cpp.obj	9b02faad6a54d125
+49	1052	6905795375150627	CMakeFiles/base_cpp.dir/Zona.cpp.obj	b1e8cff639c8e921
+1	1156	6905795376201631	CMakeFiles/base_cpp.dir/main.cpp.obj	c0207cc4541ea7a8
+13	1328	6905795377949996	CMakeFiles/base_cpp.dir/Empresa.cpp.obj	612bc9d49eb429f2
+19	729	6905796691970365	CMakeFiles/base_cpp.dir/Zona.cpp.obj	b1e8cff639c8e921
+6	832	6905796692999120	CMakeFiles/base_cpp.dir/main.cpp.obj	c0207cc4541ea7a8
+13	1012	6905796694752438	CMakeFiles/base_cpp.dir/Empresa.cpp.obj	612bc9d49eb429f2
+29	867	6905797073750923	CMakeFiles/base_cpp.dir/Venta.cpp.obj	3f32c6606feb4d93
+18	893	6905797074134615	CMakeFiles/base_cpp.dir/Vendedor.cpp.obj	9b02faad6a54d125
+24	1133	6905797076630920	CMakeFiles/base_cpp.dir/Zona.cpp.obj	b1e8cff639c8e921
+6	1203	6905797077301077	CMakeFiles/base_cpp.dir/main.cpp.obj	c0207cc4541ea7a8
+12	1388	6905797079151032	CMakeFiles/base_cpp.dir/Empresa.cpp.obj	612bc9d49eb429f2
+1388	1581	6905797081053975	base_cpp.exe	15e7ee383afe0731
